@@ -52,8 +52,9 @@ The primary focus of this project is **CI/CD automation and cloud deployment**, 
 
 ---
 
-## Note
-Application source code is not included in this repository as the focus of this project is on **DevOps CI/CD automation, containerization, and cloud deployment**, rather than application development.
+## Notes
+- The application source code is not included in this repository as the focus of the project was on **DevOps CI/CD automation and deployment**.
+- The screenshots folder contains proof of execution for each pipeline and deployment step.
 
 ---
 
