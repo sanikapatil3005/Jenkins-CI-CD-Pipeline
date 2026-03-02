@@ -32,11 +32,6 @@ The primary focus of this project is **CI/CD automation and cloud deployment**, 
 
 ---
 
-### Application Output (Deployed on EKS)
-![Application Output](Screenshots/application-output.png)
-
----
-
 ### Amazon EKS Cluster Status
 ![EKS Cluster Active](Screenshots/eks-cluster-active.png)
 
@@ -49,6 +44,11 @@ The primary focus of this project is **CI/CD automation and cloud deployment**, 
 
 ### Kubernetes Services (NodePort)
 ![Kubernetes Services](Screenshots/kubectl-services.png)
+
+---
+
+### Application Output (Deployed on EKS)
+![Application Output](Screenshots/application-output.png)
 
 ---
 
