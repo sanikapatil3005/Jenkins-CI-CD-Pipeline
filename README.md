@@ -29,30 +29,35 @@ The primary objective of this project is to implement **CI/CD automation, contai
 
 ### Jenkins Pipeline – Successful Build & Deployment
 This screenshot shows the Jenkins pipeline executing all stages successfully, including build, Docker image creation, push, and deployment.
+
 ![Jenkins Pipeline Success](Screenshots/jenkins-pipeline-success.png)
 
 ---
 
 ### Amazon EKS Cluster Status
 The EKS cluster is active and ready to host containerized applications.
+
 ![EKS Cluster Active](Screenshots/eks-cluster-active.png)
 
 ---
 
 ### Kubernetes Pods Running
 This confirms that the application pods are successfully running inside the Kubernetes cluster.
+
 ![Kubernetes Pods](Screenshots/kubectl-pods.png)
 
 ---
 
 ### Kubernetes Services (NodePort)
 The application is exposed using a NodePort service to allow external access.
+
 ![Kubernetes Services](Screenshots/kubectl-services.png)
 
 ---
 
 ### Application Output (Final Result)
 The deployed application is accessible through the worker node’s public IP and NodePort.
+
 ![Application Output](Screenshots/application-output.png)
 
 ---
