@@ -19,6 +19,9 @@ The primary focus of this project is **CI/CD automation and cloud deployment**, 
 4. Kubernetes deployment applied on Amazon EKS
 5. Poll SCM enabled for automatic builds
 
+## Proof of Execution
+Screenshots of Jenkins pipeline execution, EKS cluster, Kubernetes resources, and application output are included in the screenshots folder.
+
 ## Note
 Application source code is not included in this repository as the project focus was on DevOps automation and deployment.
 
